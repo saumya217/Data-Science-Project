@@ -1,1 +1,1 @@
-# Data-Science-Project
+# Predicting NYC cab trip duration (machine learning part)
